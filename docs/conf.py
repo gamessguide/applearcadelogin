@@ -1,6 +1,6 @@
 
-project = 'spypoint-login'
-author = 'spypoint-login'
+project = 'applearcade-login'
+author = 'applearcade-login'
 release = '1.0'
 
 # Extensions
